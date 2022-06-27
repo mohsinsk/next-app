@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Mr",
+        "firstName": "Manish",
+        "lastName": "Sharma",
+        "email": "manish@sharma.com",
+        "role": "Admin",
+        "password": "manish123",
+        "id": 1,
+        "dateCreated": "2021-04-08T05:33:05.184Z",
+        "dateUpdated": "2021-04-15T07:20:22.768Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Abhijeet",
+        "lastName": "Gole",
+        "email": "abhi@gole.com",
+        "role": "Admin",
+        "password": "abhi123",
+        "id": 2,
+        "dateCreated": "2021-04-08T05:33:05.184Z",
+        "dateUpdated": "2021-04-15T07:20:22.768Z"
+    }
+]
